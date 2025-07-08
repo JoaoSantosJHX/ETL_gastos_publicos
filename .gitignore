@@ -1,0 +1,12 @@
+# Dados brutos e arquivos grandes
+dados/
+*.zip
+*.pbix
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ambiente virtual (se usar)
+.venv/
+env/
